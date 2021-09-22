@@ -1,6 +1,6 @@
 ## Yelp Reviews
 
-Connie Xiao
+Connie Xiao 
 
 **An Unsupervised/Natural Language Processing Project**
 
